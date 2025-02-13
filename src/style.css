@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: white;
 }
+
+#FrasesExcusasFinal {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+.flex-container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+}
+
